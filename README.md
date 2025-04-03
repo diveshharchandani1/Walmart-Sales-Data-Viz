@@ -12,35 +12,25 @@ We dive into how variables such as air temperature, fuel cost, consumer price in
 
 Below are preview images for each page of the full report:
 
-### 📄 Page 1
+
 ![Page 1](images/page1.png)
 
-### 📄 Page 2
 ![Page 2](images/page2.png)
 
-### 📄 Page 3
 ![Page 3](images/page3.png)
 
-### 📄 Page 4
 ![Page 4](images/page4.png)
 
-### 📄 Page 5
 ![Page 5](images/page5.png)
 
-### 📄 Page 6
 ![Page 6](images/page6.png)
 
-### 📄 Page 7
 ![Page 7](images/page7.png)
 
-### 📄 Page 8
 ![Page 8](images/page8.png)
 
-### 📄 Page 9
 ![Page 9](images/page9.png)
 
-### 📄 Page 10
 ![Page 10](images/page10.png)
 
-### 📄 Page 11
 ![Page 11](images/page11.png)
